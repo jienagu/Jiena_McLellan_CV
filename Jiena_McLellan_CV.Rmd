@@ -1,0 +1,331 @@
+---
+title: "Jiena Gu McLellan's resume"
+author: Jiena Gu McLellan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jienagu90@gmail.com
+- <i class="fa fa-github"></i> [github.com/jienagu](https://github.com/jienagu)
+- <i class="fa fa-home"></i> www.jienamclellan.com
+
+
+R packages {#skills}
+--------------------------------------------------------------------------------
+
+- #### noteMD: [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/noteMD)](https://cran.r-project.org/package=noteMD)
+
+![noteMD](https://raw.githubusercontent.com/jienagu/noteMD/master/noteMD_logo.png){width=70%}
+
+- Print text from shiny ui (support markdown syntax) to pdf or word report
+- Repo: github.com/jienagu/noteMD
+
+
+- #### nivopie:
+
+![nivopie](https://raw.githubusercontent.com/jienagu/nivopie/master/hex_nivopie.png){width=70%}
+
+- An html widget that creates interactive pie chart
+- Repo: github.com/jienagu/nivopie
+
+
+
+
+Main
+================================================================================
+
+Jiena Gu McLellan {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a full time position in US. 
+
+
+### Professional Interests:
+
+- Shiny Education/ Consult: introduce a new educational flow from developers' perspective.
+- Combine Shiny and Rmarkdown to create a dynamic reporting eco-system.
+- Hierarchies Design of Data Visualization for shiny similar with popular commercial BI software.
+- Build htmlwidgets and combine with the beauty of shiny.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Kansas State University
+
+Graduate Certificate in Data Analytics
+
+Manhattan, KS, uSA
+
+2017
+
+### Kansas State University
+
+M.S. in Statistics
+
+Manhattan, KS, uSA
+
+2016
+
+### South China Normal University
+
+B.S. in Bioengineering
+
+Chuangzhou, China
+
+2013
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Shiny Developer/ R Programmer Analyst
+
+Beef Cattle Institute at Kansas State University
+
+Manhattan, KS
+
+2016 - Present
+
+- Build big data interactive dashboard (shiny) for clients generating dynamic report.
+- Develop R program/ packages for research projects.
+- Build shiny dashboard (including user authentication) that linked to a mobile app, mobile app users can visualize their own data and generate reports with the same log in as the mobile side. 
+- Statistical consulting.
+
+
+### Instructor
+
+College of Business at Kansas State University
+
+Manhattan, KS
+
+2019 - Present
+
+- Teach MIS 665 Business Analytics and Data Mining through K-State global campus
+
+
+
+### Graduate Teaching Assistant
+
+Department of Statistics at Kansas State University
+
+Manhattan, KS
+
+2014 - 2016
+
+- Teach Stat 325 (Introduction to Statistics) course as the instructor. 
+- Grade Assignments and exam.
+
+
+### Statistics Specialist
+
+Internatioanl Admission and Recruiting office at Kansas State University
+
+Manhattan, KS
+
+2015 - 2016
+
+- Build interactive dashboard (shiny) to visualize the admission data. 
+
+
+
+R/ Shiny Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Building an Interactive Tutorial Website for R and Statistics
+
+C2C Digital Magazine: Vol. 1 : Iss. 10 , Article 7. 
+
+N/A
+
+2019
+
+Jiena Gu McLellan
+
+::: aside
+
+### Skills:
+
+R, Python, Shiny, html, Rcpp (C++), CSS
+
+:::
+
+### Geographic Information Visualization by R
+
+C2C Digital Magazine: Vol. 1 : Iss. 8 , Article 4. 
+
+N/A
+
+2018
+
+Jiena Gu McLellan
+
+### Sentiment Analysis of Real-time Twitter Data
+
+C2C Digital Magazine: Vol. 1 : Iss. 7 , Article 8. 
+
+N/A
+
+2017
+
+Jiena Gu McLellan
+
+### Shiny App: An Efficient and Creative Communicator of Big Data
+
+C2C Digital Magazine: Vol. 1 : Iss. 6 , Article 6.
+
+N/A
+
+2016
+
+Jiena Gu 
+
+Peer-Reviewed Publications and Talks {data-icon=file}
+--------------------------------------------------------------------------------
+
+### learnr: Interactive R tutorials
+
+TA for Yihui Xie (Instructor) at Advanced Rmarkdown Workshop at RStudio Conference 2019
+
+Austin, TX
+
+2019
+
+Jiena Gu McLellan
+
+::: aside
+### Languages:
+
+English, Chinese
+
+:::
+
+### Evaluation of three classification models to predict risk class of cattle cohorts developing bovine respiratory disease within the first 14 days on feed using on-arrival and/or prearrival information. 
+
+Computers and Electronics in Agriculture. 156 (2019) 439-446.
+
+N/A
+
+2019
+
+David E. Amrine, **Jiena G. McLellan**, Brad J. White, Robert L. Larson, David G. Renter,
+Mike Sanderson.
+
+### Evaluation of animal-to-animal and community contact structures determined by a real-time location system for correlation with and prediction of new bovine respiratory disease diagnoses in beef cattle during the first 28 days after feedlot entry.
+
+American Journal of Veterinary Research [01 Dec 2018, 79(12):1277-1286]
+
+Kansas, USA
+
+2018
+
+Shane DD, **McLellan JG**, White BJ, Larson RL, Amrine DE, Sanderson MW, Apley MD.
+
+
+### R for Data Analytics & Interactive Visualization
+
+Manhattan Data Analytics Meetup
+
+Manhattan, KS
+
+2018
+
+Jiena Gu McLellan
+
+  
+
+Personal Shiny Projects {data-icon=file}
+--------------------------------------------------------------------------------
+
+### DT Editor/ DT Editor Shiny Module
+
+- Intro: DT Editor Shiny App that has (almost) all features of data table editor.
+- Shiny Module: https://github.com/jienagu/DT_editor_shiny_module 
+
+N/A
+
+Repo: https://github.com/jienagu/DT-Editor 
+
+2019
+
+### rpivotTableMD
+
+- Intro: a shiny app demonstrates `rpivotTable` dynamically interacting with Rmarkdown reports (pdf or word) from a shiny app platform
+
+N/A
+
+Repo: https://github.com/jienagu/rpivotTableMD
+
+2019
+
+### D3 folded charts
+
+- Hierarchies Design of Data Visualization for shiny: Drilling down from graphs to table/graphs similar with Power BI; generate dynamic reports.
+
+N/A
+
+Repo: https://github.com/jienagu/D3_folded_charts
+
+2019
+
+### Shiny Template
+
+- Intro: a shiny template is to mimic questions/survey type of UI design to bring the best user-experience.
+
+N/A
+
+Repo: https://github.com/jienagu/Shiny_Template 
+
+2019
+
+### PlayR: Interacitve Tutorial Website
+
+- Intro: an interactive tutorial website (PlayR) built by learnr package.
+
+N/A
+
+Repo: https://github.com/jienagu/Interactive_tutorial_website 
+
+2019
+
+### Shiny Interactive Presentation
+
+- Intro: Generating interactive presentation from shiny side
+
+N/A
+
+Repo: https://github.com/jienagu/Shiny_Interactive_Presentation 
+
+2019
+
+
+Grant & Awards {data-icon=file}
+--------------------------------------------------------------------------------
+
+### The Development Grant for MIS665 through K-State global campus
+
+- Intro: Develop MIS 665 Business Analytics and Data Mining course 
+
+N/A
+
+Fund: $3500
+
+2019
+
+
+::: aside
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+:::

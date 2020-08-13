@@ -22,7 +22,7 @@ Contact Info {#contact}
 R packages {#skills}
 --------------------------------------------------------------------------------
 
-- #### noteMD: [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/noteMD)](https://cran.r-project.org/package=noteMD)
+- #### noteMD:
 
 ![noteMD](https://raw.githubusercontent.com/jienagu/noteMD/master/noteMD_logo.png){width=70%}
 
@@ -30,13 +30,12 @@ R packages {#skills}
 - Repo: github.com/jienagu/noteMD
 
 
-- #### nivopie:
+- #### forestry
 
-![nivopie](https://raw.githubusercontent.com/jienagu/nivopie/master/hex_nivopie.png){width=70%}
+![forestry](https://raw.githubusercontent.com/jienagu/forestry/master/forestry_hex2.png){width=70%}
 
-- An html widget that creates interactive pie chart
-- Repo: github.com/jienagu/nivopie
-
+- help with reshaping hierarchy of data tree
+- Repo: github.com/jienagu/forestry
 
 
 
@@ -46,47 +45,20 @@ Main
 Jiena Gu McLellan {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a full time position in US. 
-
-
-### Professional Interests:
-
-- Shiny Education/ Consult: introduce a new educational flow from developers' perspective.
-- Combine Shiny and Rmarkdown to create a dynamic reporting eco-system.
-- Hierarchies Design of Data Visualization for shiny similar with popular commercial BI software.
-- Build htmlwidgets and combine with the beauty of shiny.
-
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### Kansas State University
-
-Graduate Certificate in Data Analytics
-
-Manhattan, KS, uSA
-
-2017
-
-### Kansas State University
-
-M.S. in Statistics
-
-Manhattan, KS, uSA
-
-2016
-
-### South China Normal University
-
-B.S. in Bioengineering
-
-Chuangzhou, China
-
-2013
-
-
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Software Developer
+
+McKinsey & Company
+
+Atlanta, GA
+
+2019 - Present
+
+- Develop tools and web applications for data analytics
+- Develop and mantain R and Python packages 
+
 
 ### Shiny Developer/ R Programmer Analyst
 
@@ -94,7 +66,7 @@ Beef Cattle Institute at Kansas State University
 
 Manhattan, KS
 
-2016 - Present
+2016 - 2019
 
 - Build big data interactive dashboard (shiny) for clients generating dynamic report.
 - Develop R program/ packages for research projects.
@@ -138,6 +110,34 @@ Manhattan, KS
 
 
 
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Kansas State University
+
+Graduate Certificate in Data Analytics
+
+Manhattan, KS, uSA
+
+2017
+
+### Kansas State University
+
+M.S. in Statistics
+
+Manhattan, KS, uSA
+
+2016
+
+### South China Normal University
+
+B.S. in Bioengineering
+
+Chuangzhou, China
+
+2013
+
+
 R/ Shiny Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
@@ -152,6 +152,20 @@ N/A
 Jiena Gu McLellan
 
 ::: aside
+
+- #### faq
+
+![faq](https://raw.githubusercontent.com/jienagu/faq/master/faq_logo.png){width=70%}
+
+- create a FAQ (Frequently Asked Questions) page
+- Repo: github.com/jienagu/faq
+
+- #### flashCard
+
+![flashCard](https://raw.githubusercontent.com/jienagu/flashCard/master/flashCard_hex.png){width=70%}
+
+- create a flash card
+- github.com/jienagu/flashCard
 
 ### Skills:
 
@@ -191,6 +205,15 @@ Jiena Gu
 
 Peer-Reviewed Publications and Talks {data-icon=file}
 --------------------------------------------------------------------------------
+### Effect of Duration and Onset of Clinical Signs on Short-Term Outcome of Dogs with Hansen Type I Thoracolumbar Intervertebral Disc Extrusion
+
+Veterinary and Comparative Orthopaedics and Traumatology
+
+N/A
+
+2020
+
+DA Upchurch, WC Renberg, HS Turner, **JG McLellan**
 
 ### learnr: Interactive R tutorials
 
@@ -202,12 +225,6 @@ Austin, TX
 
 Jiena Gu McLellan
 
-::: aside
-### Languages:
-
-English, Chinese
-
-:::
 
 ### Evaluation of three classification models to predict risk class of cattle cohorts developing bovine respiratory disease within the first 14 days on feed using on-arrival and/or prearrival information. 
 

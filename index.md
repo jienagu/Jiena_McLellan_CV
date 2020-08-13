@@ -7,8 +7,8 @@ Note the relative link starting with a slash before the html file.
 The index.md is to customize the github page's home page, 
 The following link directs to the slide.
 
-Code: `[cv link](/Jiena_McLellan.html)`
+Code: `[cv link](/Jiena_McLellan_CV.html)`
 
 Result:
 
-[cv link](/Jiena_McLellan.html)
+[cv link](/Jiena_McLellan_CV.html)

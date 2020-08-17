@@ -133,7 +133,7 @@ Manhattan, KS, uSA
 
 B.S. in Bioengineering
 
-Chuangzhou, China
+Guangzhou, China
 
 2013
 
@@ -162,7 +162,7 @@ Jiena Gu McLellan
 
 - #### flashCard
 
-![flashCard](https://raw.githubusercontent.com/jienagu/flashCard/master/flashCard_hex.png){width=70%}
+![flashCard](https://raw.githubusercontent.com/jienagu/flashCard/master/man/figures/flashCard_hex.png){width=70%}
 
 - create a flash card
 - github.com/jienagu/flashCard

@@ -48,13 +48,22 @@ Jiena Gu McLellan {#title}
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Software Developer
+### Software Architect
+
+McKinsey & Company
+
+Tampa, FL
+
+2021 - Present
+
+
+### Senior Software Developer
 
 McKinsey & Company
 
 Atlanta, GA
 
-2019 - Present
+2019 - 2021
 
 - Develop tools and web applications for data analytics
 - Develop and mantain R and Python packages 

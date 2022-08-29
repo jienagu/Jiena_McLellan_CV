@@ -115,7 +115,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 Graduate Certificate in Data Analytics
 
-Manhattan, KS, uSA
+Manhattan, KS, USA
 
 2017
 
@@ -123,7 +123,7 @@ Manhattan, KS, uSA
 
 M.S. in Statistics
 
-Manhattan, KS, uSA
+Manhattan, KS, USA
 
 2016
 
@@ -149,6 +149,8 @@ N/A
 
 Jiena Gu McLellan
 
+
+
 ::: aside
 
 - #### faq
@@ -165,11 +167,12 @@ Jiena Gu McLellan
 - create a flash card
 - github.com/jienagu/flashCard
 
-### Skills:
+- #### Skills:
 
-R, Python, Shiny, html, Rcpp (C++), CSS
+R, Python, javascript, Shiny, html, Rcpp (C++), CSS
 
 :::
+
 
 ### Geographic Information Visualization by R
 
@@ -328,9 +331,10 @@ Grant & Awards {data-icon=file}
 
 ### The Development Grant for MIS665 through K-State global campus
 
-- Intro: Develop MIS 665 Business Analytics and Data Mining course 
+Intro: Develop MIS 665 Business Analytics and Data Mining course 
 
-N/A
+Manhattan
+KS
 
 2019
 
